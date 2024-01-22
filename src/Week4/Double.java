@@ -10,9 +10,8 @@ public class Double {
 			//This establishes an integer of double data type and assigns a new variable of averageReturn to it
 			averageReturn =+ numbers[i];
 		//This takes the variable of averageReturn and adds it to the numbers array, and returns the output of the numbers
-		} return numbers;
+		} return numbers;		
 		}
-	
 	}
 
 
