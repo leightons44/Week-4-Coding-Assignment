@@ -11,7 +11,7 @@ public class Double {
 			averageReturn =+ numbers[i];
 		//This takes the variable of averageReturn and adds it to the numbers array, and returns the output of the numbers
 		} return numbers;		
-		// to delete later
+		
 		}
 	}
 
