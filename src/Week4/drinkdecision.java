@@ -3,6 +3,7 @@ package Week4;
 public class drinkdecision {
 	public static boolean willBuyDrink(Boolean isHotOutside, double moneyInPocket) {
 		return isHotOutside && moneyInPocket > 10.50;
+		
 	}
 	public static void main(String[] args) {
 		boolean isHotOutside = true;
